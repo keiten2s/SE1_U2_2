@@ -12,5 +12,7 @@ public class SortedTest_2{
         assertEquals(arr, sorted.sortiert(comp),      
         "Array ist sortiert");          
     }
+    
+    //Hallo
 
 }
