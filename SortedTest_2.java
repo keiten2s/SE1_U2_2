@@ -13,6 +13,6 @@ public class SortedTest_2{
         "Array ist sortiert");          
     }
     
-    //Hallo
+    
 
 }
