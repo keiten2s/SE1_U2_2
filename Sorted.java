@@ -1,4 +1,5 @@
-public class Sorted{
+public class Sorted {
+	
 	
 	
 	

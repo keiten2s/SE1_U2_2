@@ -1,8 +1,8 @@
-public class SortedTest_2{
+public class SortedTest{
 
     @BeforeEach                                         
     public void setUp() throws Exception {
-        sorted = new Sorted_2();
+        sorted = new Sorted();
     }
 
     @Test                                               
